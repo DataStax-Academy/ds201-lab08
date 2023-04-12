@@ -17,7 +17,7 @@
 
 <!-- CONTENT -->
 
-<div class="step-title">Start the nodes in the and examine the token distribution</div>
+<div class="step-title">Start the nodes in the cluster and examine the token distribution</div>
 
 
 ✅ Start *node1*
