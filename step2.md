@@ -41,7 +41,7 @@ Wait for it to start
 ---
 
 
-Use `nodetool` to verify that node1 is running. (You may need to run this command multiple times.)
+Use `nodetool` to verify that both nodes are running. (You may need to run this command multiple times.)
 
 ✅ Run `nodetool status`:
 ```
