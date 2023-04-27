@@ -2,7 +2,7 @@
 <div class="top">
   <img class="scenario-academy-logo" src="https://datastax-academy.github.io/katapod-shared-assets/images/ds-academy-2023.svg" />
   <div class="scenario-title-section">
-    <span class="scenario-title">vNodes</span>
+    <span class="scenario-title">VNodes</span>
     <span class="scenario-subtitle">ℹ️ For technical support, please contact us via <a href="mailto:academy@datastax.com">email</a>.</span>
   </div>
 </div>
@@ -13,6 +13,9 @@
    class="btn btn-dark navigation-bottom-left">⬅️ Back
  </a>
 <span class="step-count"> Step 2 of 2</span>
+   <a href='command:katapod.loadPage?[{"step":"finish"}]' 
+    class="btn btn-dark navigation-top-right">Next ➡️
+  </a>
 </div>
 
 <!-- CONTENT -->
@@ -62,4 +65,7 @@ Notice how each node is responsible for smaller, but much more numerous sections
   <a href='command:katapod.loadPage?[{"step":"step1"}]'
    class="btn btn-dark navigation-bottom-left">⬅️ Back
  </a>
+    <a href='command:katapod.loadPage?[{"step":"finish"}]' 
+    class="btn btn-dark navigation-top-right">Next ➡️
+  </a>
 </div>

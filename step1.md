@@ -2,7 +2,7 @@
 <div class="top">
   <img class="scenario-academy-logo" src="https://datastax-academy.github.io/katapod-shared-assets/images/ds-academy-2023.svg" />
   <div class="scenario-title-section">
-    <span class="scenario-title">vNodes</span>
+    <span class="scenario-title">VNodes</span>
     <span class="scenario-subtitle">ℹ️ For technical support, please contact us via <a href="mailto:academy@datastax.com">email</a>.</span>
   </div>
 </div>
@@ -20,7 +20,7 @@
 
 <!-- CONTENT -->
 
-<div class="step-title">Edit <i>cassandra.yaml</i> to use <i>vNodes</i></div>
+<div class="step-title">Edit <i>cassandra.yaml</i> to use <i>VNodes</i></div>
 
 In this exercise there is a two-node Cassandra cluster. The root directories for the nodes are: `./node1` and `./node2`. You are going to edit the configuration file (`cassandra.yaml`) for *node2*. You are going to assign an `initial_token` value of `-9223372036854775808`
 

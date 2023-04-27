@@ -1,10 +1,10 @@
 # DS201 Exercise 08
 
-## vNodes
+## VNodes
 
 **In this hands-on lab, you will:**
 * Start a two-node Cassandra cluster
-* Use nodetool to see how nodes using VNodes are assigned tokens
+* Use *nodetool* to see how nodes using VNodes are assigned tokens
 
 
 ## Start the hands-on lab:
