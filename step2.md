@@ -35,6 +35,9 @@ Wait for it to start
 ```
 ---
 **Note:** You may be able to catch the log message describing the generated tokens as the nodes start up:
+
+<img src="https://katapod-file-store.s3.us-west-1.amazonaws.com/ds201/lab08-image01.png" />
+
 ---
 
 
