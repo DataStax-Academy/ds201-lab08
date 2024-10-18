@@ -23,13 +23,13 @@
 <div class="step-title">Start the nodes in the cluster and examine the token distribution</div>
 
 
-✅ Start *node1*
+✅ Start *node1*:
 ```
 /workspace/ds201-lab08/node1/bin/cassandra
 ```
 Wait for it to start
 
-✅ Start *node2*
+✅ Start *node2*:
 ```
 /workspace/ds201-lab08/node2/bin/cassandra
 ```
@@ -52,11 +52,11 @@ You should see that the Tokens column shows 128 tokens for each node.
 <img src="https://katapod-file-store.s3.us-west-1.amazonaws.com/ds201/lab08-image02
 .png" />
 
-✅ Run `nodetool ring`  
+✅ Run `nodetool ring`:
 ```
 nodetool ring
 ```
-Notice how each node is responsible for smaller, but much more numerous sections of the token ring.
+Notice that each node is responsible for smaller, but much more numerous sections of the token ring.
 
 <img src="https://katapod-file-store.s3.us-west-1.amazonaws.com/ds201/lab08-image03.png" />
 
