@@ -45,7 +45,7 @@ Use `nodetool` to verify that both nodes are running. (You may need to run this 
 
 ✅ Run `nodetool status`:
 ```
-/workspace/ds201-lab08/node1/bin/nodetool status
+nodetool status
 ```
 You should see that the Tokens column shows 128 tokens for each node.
 
@@ -54,7 +54,7 @@ You should see that the Tokens column shows 128 tokens for each node.
 
 ✅ Run `nodetool ring`  
 ```
-/workspace/ds201-lab08/node1/bin/nodetool ring
+nodetool ring
 ```
 Notice how each node is responsible for smaller, but much more numerous sections of the token ring.
 

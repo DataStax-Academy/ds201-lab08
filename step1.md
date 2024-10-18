@@ -46,6 +46,9 @@ nano /workspace/ds201-lab08/node1/conf/cassandra.yaml
 Save and exit the editor.
 
 ✅ Make the same changes to  `/workspace/ds201-lab08/node2/conf/cassandra.yaml` 
+```
+nano /workspace/ds201-lab08/node2/conf/cassandra.yaml
+```
 
 <!-- NAVIGATION -->
 <div id="navigation-bottom" class="navigation-bottom">
